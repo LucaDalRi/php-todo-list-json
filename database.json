@@ -1,0 +1,27 @@
+[
+    {
+        "task": "Portare il nonno",
+        "done": true
+    },
+    {
+        "task": "Andare in palestra",
+        "done": true
+    },
+    {
+        "task": "Comprare cibo per il cane",
+        "done": false
+    },
+    {
+        "task": "Tagliare l`erba",
+        "done": false
+    },
+    {
+        "task": "Aggiustare la macchina",
+        "done": false
+    },
+    {
+        "task": "Chiamare la nonna",
+        "done": true
+    }
+
+]
