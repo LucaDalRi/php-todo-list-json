@@ -18,6 +18,11 @@
         </li>
     </ul>
 
+    <form action="todoSaver.php" method="POST" @submit.prevent="addTodo()">
+        <label for="userTask">Task:</label><br>
+        <input type="text" name="userTask" id="userTask" v-model="newTodo.task" placeholder="Scrivi la tua task da aggiungere" required>
+        <button type="submit">GO</button>
+    </form>
 
     </div>
 
